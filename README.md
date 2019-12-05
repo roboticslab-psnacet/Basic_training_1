@@ -1,0 +1,2 @@
+# Basic_training_1
+This course is about the hands-on session about robotics fundamentals, robotic arm, setting up the robot and the kinematics &amp; dynamics of the robot. It also deals with the usage of open computer vison libraries like OpenCV for the robotic applications. The participants will get hands on experience in calculating kinematics for the robotic platforms and will get experienced in handling computer vision libraries.
